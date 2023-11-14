@@ -1,5 +1,6 @@
 # Item1. 생성자 대신 static 팩토리 메소드를 고려해라
 
+
 ```java
 public static Boolean valueOf(boolean b){
     return b ? Boolean.TRUE : Boolean.FALSE;

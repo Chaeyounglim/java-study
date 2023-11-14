@@ -1,5 +1,6 @@
 # item2. 생성자에 매개변수가 많다면 Builder를 고려하라
 
+
 ```java
 public class NutritionFacts {
     private final int servingSize;
